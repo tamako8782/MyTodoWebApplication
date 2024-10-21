@@ -226,9 +226,7 @@ https://github.com/user-attachments/assets/d06ab1a0-c318-4308-9881-40a2bc57369a
   - **Docker Desktop**: 
     - バージョン: 4.26.1
   - **Kind**: 
-    - バージョン: kind v0.23.0
-    - Goバージョン: go1.22.3
-    - プラットフォーム: darwin/arm64
+    - バージョン: kind 0.23.0
 
 ### 5.2 本番環境デプロイ
 - **CI/CDパイプライン**: GitHub Actionsによる自動化デプロイを設定予定。
