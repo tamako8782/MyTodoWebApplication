@@ -99,7 +99,7 @@ https://github.com/user-attachments/assets/d06ab1a0-c318-4308-9881-40a2bc57369a
 - **コンテナオーケストレーション(kubernetesマニフェスト管理)**: kustomize 5.4.3
 - **クラウドプロバイダー**: Azure (将来的に検討)
 
-## 3. 詳細設計![Uploading diagram.svg…]()
+## 3. 詳細設計
 
 
 ### 3.1 アプリケーション層
